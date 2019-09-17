@@ -35,6 +35,7 @@
 #include "Mesquite_MsqMatrix.hpp"
 #include "Mesquite_MsqError.hpp"
 #include <limits>
+#include <algorithm>
 
 namespace MESQUITE_NS {
 
